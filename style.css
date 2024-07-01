@@ -1,0 +1,35 @@
+body{
+    background-color: #c19770;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: justify;
+    color: floralwhite;
+    font-size: 17px;
+}
+.card-container {
+    display: flex;
+    gap: 20px;
+}
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    text-align: center;
+}
+.card-content {
+    padding: 35px;
+}
+.texto-card {
+    font-size: 15px;
+    color: gray;
+    margin: 10px 0;
+}
+.titulo-card{
+    color: red;
+    text-align: center;
+}
