@@ -1,18 +1,14 @@
 DROP DATABASE IF EXISTS db_prueba_tecnica;
 
-
 CREATE DATABASE IF NOT EXISTS db_prueba_tecnica;
 
-
 USE db_prueba_tecnica;
-
 
 CREATE TABLE IF NOT EXISTS articles (
     id INT PRIMARY KEY,
     titular VARCHAR(255),
     contenido TEXT
 );
-
 
 INSERT INTO articles (id, titular, contenido) VALUES
 (1, 'España vs Georgia', 'España gana 4-1 a Georgia'),

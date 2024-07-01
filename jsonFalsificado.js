@@ -5,3 +5,5 @@ const datos = [
 { id: 4, titular: 'Inglaterra vs Eslovaquia', contenido: 'Inglaterra gana 2-1 a Eslovaquia'},
 { id: 5,  titular:'Argentina vs Peru', contenido: 'Argentina gana 2-0 a Peru'},
 ];
+
+export default datos;
