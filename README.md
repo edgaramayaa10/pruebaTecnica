@@ -1,1 +1,1 @@
-# Egdar Amaya Rodriguez
+# Edgar Amaya Rodriguez
